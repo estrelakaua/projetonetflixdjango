@@ -34,7 +34,7 @@ else:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['projetonetflixdjango-production-c323.up.railway.app']
+ALLOWED_HOSTS = ['projetonetflixdjango-production-c323.up.railway.app', "localhost", "127.0.0.1"]
 
 
 # Application definition
