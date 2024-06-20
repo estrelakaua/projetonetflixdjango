@@ -32,7 +32,7 @@ else:
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['projetonetflixdjango-production-ac82.up.railway.app', 'localhost', '127.0.0.1']
 
